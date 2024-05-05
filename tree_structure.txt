@@ -1,0 +1,20 @@
+.
+├── MA data
+│   ├── tbl_addresses.csv
+│   ├── tbl_customer_accounts.csv
+│   ├── tbl_customer_reviews.csv
+│   ├── tbl_customers.csv
+│   ├── tbl_labelled_reviews.csv
+│   ├── tbl_orders.csv
+│   └── tbl_products.csv
+├── MA notebooks
+│   ├── 1.Preprocessing.ipynb
+│   ├── 2.EDA.ipynb
+│   ├── 3.RFM+Churn+MBA.ipynb
+│   ├── 4.Sentiment analysis.ipynb
+│   └── 5.Extra Point 1+2.ipynb
+├── README.md
+├── presentation.pdf
+└── tree_structure.txt
+
+3 directories, 15 files
