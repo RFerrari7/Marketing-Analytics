@@ -1,3 +1,0 @@
-MA[[:space:]]data/* filter=lfs diff=lfs merge=lfs -text
-Bert_sent/* filter=lfs diff=lfs merge=lfs -text
-MA[[:space:]]notebooks/* filter=lfs diff=lfs merge=lfs -text
