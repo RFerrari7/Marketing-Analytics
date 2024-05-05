@@ -16,4 +16,7 @@ Four main marketing analytics techniques have been implemented to reach this goa
 * **Sentiment Analysis**: it's a method used to analyze the sentiment expressed by the cusotmers, usually through reviews and feedbacks, in order to understand how the customer base
  of a company perceives a product/service.
 
-  
+## Repository structure
+
+This repository contains the following files:
+
