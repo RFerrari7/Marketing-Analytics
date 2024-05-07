@@ -1,6 +1,7 @@
 # Marketing Analytics Project
 
-This repository contains a project developed during the course of the Master's degree in Data Science.
+This repository contains a project developed as part of *Marketing Analytics* course of the [Master's degree in Data Science](https://www.unimib.it/graduate/data-science),
+University of Milano Bicocca.
 
 ## Description
 
